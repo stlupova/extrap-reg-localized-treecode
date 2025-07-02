@@ -1,10 +1,10 @@
 # extrap-reg-localized-treecode
-Code for https://arxiv.org/abs/
+Code for https://arxiv.org/abs/2507.00156
 
 For questions/comments contact Svetlana Tlupova (svetlana.tlupova@farmingdale.edu) 
 
 Reference:
-J. Siebor and S. Tlupova. Localized evaluation and fast summation in the extrapolated regularization method for integrals in Stokes flow. arXiv; Cornell University Library, 2025. https://arxiv.org/abs/
+J. Siebor and S. Tlupova. Localized evaluation and fast summation in the extrapolated regularization method for integrals in Stokes flow. arXiv; Cornell University Library, 2025. https://arxiv.org/abs/2507.00156
 
 This code was developed as part of work supported by the National Science Foundation grant DMS-2012371.
 
